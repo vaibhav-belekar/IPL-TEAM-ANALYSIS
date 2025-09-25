@@ -1,11 +1,6 @@
 # 🏏 IPL Team Analysis Dashboard
 
 A dynamic **Streamlit web application** for analyzing IPL cricket match data from 2019–2023 with interactive visualizations and team/player performance insights.
-
-[Watch Demo](Recording 2025-09-26 025415.mp4)
-**Demo:**  
-![Demo GIF](images/demo.gif)
-
 ---
 
 ## 📊 Features
